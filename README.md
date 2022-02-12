@@ -30,8 +30,8 @@ Acesse com as credenciais abaixo para testar a versão Demo.
 
 * [ACESSAR](http://www.appminhastarefas.epizy.com)
 
-login: user
-senha: user123
+- **login:** user
+- **senha:** user123
 
 <!-- CONTACT -->
 ## Contato
