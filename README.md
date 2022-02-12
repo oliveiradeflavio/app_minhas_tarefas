@@ -12,7 +12,7 @@
 
 [![tela inicial][product-screenshot]]()
 
-Crie, altere ou exlua as tarefas. Controle de permissão por usuários, entre administradores e usuários com permisões padrões.
+Crie, altere ou exclua as tarefas. Controle de permissão por usuários, entre administradores e usuários com permisões padrões.
 
 ### Construído com
 
