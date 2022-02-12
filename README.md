@@ -1,5 +1,5 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
-![GitHub forks](https://img.shields.io/github/forks/oliveiradeflavio/front-back-end?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/oliveiradeflavio/app_minhas_tarefas?style=for-the-badge)
 ![GitHub User's stars](https://img.shields.io/github/stars/oliveiradeflavio?style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/oliveiradeflavio?style=for-the-badge)
 
@@ -20,7 +20,7 @@ Crie, altere ou exlua as tarefas. Controle de permissão por usuários, entre ad
 
 Flávio Oliveira - [LinkedIn](https://www.linkedin.com/in/fladoliveira/)
 
-Link do Projeto: [https://github.com/oliveiradeflavio/front-back-end](https://github.com/oliveiradeflavio/front-back-end)
+Link do Projeto: [https://github.com/oliveiradeflavio/front-back-end](https://github.com/oliveiradeflavio/app_minhas_tarefas)
 
 
 
