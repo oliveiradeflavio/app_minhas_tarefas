@@ -1,0 +1,136 @@
+body, #busca {
+    height: 100%;
+    background-color: #f9f9fa;
+}
+
+.card{
+    margin-top: 5%;
+    box-shadow: none;
+    background-color: #fff;
+    border: 1px solid #d2d2dc;
+    border-radius: 10px;
+    padding: 1.25rem 1.75rem;  
+}
+
+.card-body{
+    flex: 1 1 auto;
+    padding: 1.25rem;
+}
+
+.card .card-title{
+    color: #000000;
+    margin-bottom: 0.625rem;
+    text-transform: uppercase;
+    font-size: 0.875rem;
+    font-weight: 500;
+}
+
+.form-control{
+    border: 1px solid #f3f3f3;
+    font-weight: 400;
+    font-size: 0.875rem;
+    width: 100%;
+    padding: 0.875rem 1.375rem;
+    line-height: 1;
+    color: #495057;
+    background-color: #ffffff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    border-radius: 2px;
+    transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out
+}
+
+.add-itens {
+    margin-bottom: 1.5rem;
+    overflow: hidden
+}
+
+.add-itens input[type="text"] {
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    width: 100%;
+    background: transparent
+}
+
+.add-itens .btn{
+    margin-left: .5rem;
+    
+}
+
+.btn {
+    font-size: 0.875rem;
+    line-height: 1;
+    font-weight: 400;
+    padding: .7rem 1.5rem;
+    border-radius: 0.1275rem;
+}
+
+.list-wrapper{
+    height: 100%;
+    max-height: 100%;
+}
+
+.list-wrapper ul {
+    padding: 0;
+    text-align: left;
+    list-style: none;
+    margin-bottom: 0
+}
+
+.list-wrapper ul li {
+    font-size: .9375rem;
+    padding: .4rem 0;
+    border-bottom: 1px solid #f3f3f3
+}
+
+.icones {
+    /* cursor: pointer; */
+    font-size: 0.875rem;
+    font-weight: 600;
+    width: 1.25rem;
+    height: 1.25rem;
+    line-height: 20px;
+    text-align: center;
+    padding: 10px;
+}
+
+.tarefas{
+    min-height: 18px;
+    font-size: 0.875rem;
+    line-height: 1.5;
+    border-bottom: 1px solid #f3f3f3
+}
+
+.inputTarefaAtualizar{
+    width: 75%;
+    border: 1px solid #f3f3f3;
+    font-weight: 400;
+    font-size: 0.875rem;
+    padding: 0.875rem 1.375rem;
+    line-height: 1;
+    color: #495057;
+    background-color: #ffffff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    border-radius: 2px;
+    transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (max-width: 576px) {
+    
+    .card-body{
+        padding: 0;
+
+    }
+
+ }
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) { }
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) {  }
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) { }
