@@ -33,6 +33,9 @@ Acesse com as credenciais abaixo para testar a versão Demo.
 - **login:** user
 - **senha:** user123
 
+
+![Editar_Perfil](https://github.com/oliveiradeflavio/app_minhas_tarefas/blob/main/minhas_tarefas_public/img/editar_perfil_app_minhastarefas.png)
+
 <!-- CONTACT -->
 ## Contato
 
