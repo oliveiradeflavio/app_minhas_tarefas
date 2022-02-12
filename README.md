@@ -14,6 +14,22 @@
 
 Crie, altere ou exlua as tarefas. Controle de permissão por usuários, entre administradores e usuários com permisões padrões.
 
+### Construído com
+
+* [HTML](https://www.w3schools.com/html/)
+* [CSS](https://www.w3schools.com/css/)
+* [Bootstrap](https://getbootstrap.com/)
+* [PHP]
+* [Javascript]
+* [MySQL]
+
+<!-- USAGE EXAMPLES -->
+## Demo
+
+Acesse com as credenciais abaixo para testar a versão Demo.
+
+login: user
+senha: user123
 
 <!-- CONTACT -->
 ## Contato
