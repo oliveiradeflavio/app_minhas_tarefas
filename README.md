@@ -19,15 +19,16 @@ Crie, altere ou exlua as tarefas. Controle de permissão por usuários, entre ad
 * [HTML](https://www.w3schools.com/html/)
 * [CSS](https://www.w3schools.com/css/)
 * [Bootstrap](https://getbootstrap.com/)
-* [PHP]
-* [Javascript]
-* [MySQL]
+* [PHP](https://www.php.net/)
+* [Javascript](https://www.javascript.com/)
+* [MySQL](https://www.mysql.com/)
 
 <!-- USAGE EXAMPLES -->
 ## Demo
 
 Acesse com as credenciais abaixo para testar a versão Demo.
 
+* [ACESSAR](http://www.appminhastarefas.epizy.com)
 login: user
 senha: user123
 
